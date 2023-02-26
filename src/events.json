@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "title":"Moğollar ve Musa Göçmen Senfoni Orkestrası 55. Yıl Özel Konseri", 
+        "adress": "Congresium Ankara",
+        "koltuk": "koltuklu",
+        "date": "08 Ocak 2022 Paz- 20:30",
+        "price": "199₺",
+        "redprice" :"",
+        "imgsrc": "https://cdn.bubilet.com.tr/files/Etkinlik/mogollar-ve-musa-gocmen-senfoni-orkestrasi-55-yil-ozel-konseri-88347.jpeg"
+    },
+    {
+        "id": 2,
+        "title":"Mahşer-i Cümbüş Oyunu", 
+        "adress": "MEB Şura Salonu",
+        "koltuk": "koltuklu",
+        "date": "25 Aralık Pazar - 19:00",
+        "price": "118₺",
+        "redprice" :"168₺",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/mahser-i-cumbus-oyunu-46312.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Bir Anarşistin Kaza Sonucu Ölümü Oyunu", 
+        "adress": "Ankara Sanat Tiyatrosu - Bilkent Sahne",
+        "koltuk": "koltuklu",
+        "date": "24 Aralık, 4 Şubat, 18 Şubat",
+        "price": "90₺",
+        "redprice" :"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/bir-anarsistin-kaza-sonucu-olumu-11485.png"
+    },
+    {
+        "id": 4,
+        "title":"HiraiZerdüş Akustik Konser", 
+        "adress": "MEB Şura Salonu",
+        "koltuk": "koltuklu",
+        "date": "23 Aralık Cum- 20:30",
+        "price": "168₺",
+        "redprice":"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/hiraizerdus-akustik-46587.jpg"
+    },
+    {
+        "id": 5,
+        "title":"Nilgün Belgün ile Aşk ve Komedi Oyunu", 
+        "adress": "MEB Şura Salonu",
+        "koltuk": "koltuklu",
+        "date": "21 Aralık Çar- 20:00",
+        "price": "119₺",
+        "redprice" :"171₺",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/nilgun-belgun-ile-ask-ve-komedi-oyunu-12870.jpg"
+    },
+    {
+        "id": 6,
+        "title":"Evgeny Grinko Konseri", 
+        "adress": "Yenimahalle Nazım Hikmet Kültür Merkezi",
+        "koltuk": "",
+        "date": "20 Aralık Salı - 21:00",
+        "price": "350 TL",
+        "redprice" :"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/evgeny-grinko-konseri-39554.png"
+    },
+    {
+        "id": 7,
+        "title":"Taxim Oyunu", 
+        "adress": "Congresium Ankara",
+        "koltuk": "koltuklu",
+        "date": "27 Ocak Cum- 21:00",
+        "price": "310₺",
+        "redprice" :"445₺",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/taxim-oyunu--88310.jpg"
+    },
+    {
+        "id": 8,
+        "title":"Cem Adrian Konseri", 
+        "adress": "MEB Şura Salonu",
+        "koltuk": "koltuklu",
+        "date": "15 Ocak Paz- 20:00",
+        "price": "224₺",
+        "redprice" :"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/cem-adrian-konseri-99679.png"
+    },
+    {
+        "id": 9,
+        "title":"Fatma Turgut Konseri", 
+        "adress": "Ankara Milyon Performance Hall",
+        "koltuk": "",
+        "date": "21 Ocak Cmt- 22:00",
+        "price": "120₺",
+        "redprice" :"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/fatma-turgut-konseri-51663.jpg"
+    },
+    {
+        "id": 10,
+        "title":"Yeni Türkü Konseri", 
+        "adress": "MEB Şura Salonu",
+        "koltuk": "koltuklu",
+        "date": "02 Şubat Per- 20:30",
+        "price": "235₺",
+        "redprice" :"336₺",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/yeni-turku-konser-78462.jpg"
+    },
+    {
+        "id": 11,
+        "title":"Flashback 90'lar Türkçe Pop Gecesi", 
+        "adress": "Ankara Milyon Performance Hall",
+        "koltuk": "",
+        "date": "14 Ocak Cmt- 21:00",
+        "price": "80₺",
+        "redprice" :"160₺",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/flashback-90lar-turkce-pop-gecesi-bir-alana-bir-bedava-bilet-31162.jpeg"
+    },
+    {
+        "id": 12,
+        "title":"Gökhan Türkmen Konseri", 
+        "adress": "Yenimahalle Nazım Hikmet Kültür Merkezi",
+        "koltuk": "",
+        "date": "09 Şubat Per- 20:30",
+        "price": "250₺",
+        "redprice" :"",
+        "imgsrc":"https://cdn.bubilet.com.tr/files/Etkinlik/gokhan-turkmen-konseri-79635.jpg"
+    }
+
+]
